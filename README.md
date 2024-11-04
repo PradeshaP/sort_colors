@@ -1,1 +1,1 @@
-# sort_colors
+This repository contains a C++ implementation of a sorting algorithm specifically designed to sort an array of integers representing colors. The integers are expected to be in the range of 0 to 2, corresponding to three distinct colors (often referred to as "red", "white", and "blue"). The algorithm used in this implementation is a simple Bubble Sort.
